@@ -10,30 +10,34 @@
 
 <p align="center">
   <a href="https://github.com/nesyass"><img src="https://img.shields.io/badge/GITHUB-nesyass-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:sasanesya08@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+  <a href="mailto:sasanesya08@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-161B22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-<!-- ================= TERMINAL ================= -->
-<h2 align="center">「 SYSTEM IDENTITY 」</h2>
+## `whoami`
 
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <td>
-      <p align="center">
-        <img src="https://img.shields.io/badge/●-SYSTEM_ON-101820?style=flat-square&labelColor=101820&color=123D35"/>
-        <img src="https://img.shields.io/badge/USER-NESYA-101820?style=flat-square&labelColor=101820&color=173C59"/>
-        <img src="https://img.shields.io/badge/ACCESS-LEARNING_MODE-101820?style=flat-square&labelColor=101820&color=49243A"/>
-      </p>
+    <td width="56%" valign="top">
+      <p><b>Cybersecurity Enthusiast</b> interested in understanding how systems can be attacked, monitored, and defended.</p>
+      <p>I enjoy exploring vulnerabilities, analyzing security findings, and turning technical observations into clear, actionable recommendations.</p>
+      <p><b>Current interests</b></p>
+      <ul>
+        <li>Web application security and VAPT</li>
+        <li>Security monitoring and threat detection</li>
+        <li>Security engineering, GRC, and security frameworks</li>
+      </ul>
+    </td>
+    <td width="44%" valign="top">
       <pre>
 nesya@cybersec:~$ whoami
 
-  Name       : nesya
-  Role       : Cybersecurity Enthusiast
-  Focus      : Offensive Security | Defensive Security | GRC
-  Currently  : Learning, Testing & Building
-  Motto      : Explore. Detect. Defend.
+Name      : Nesya
+Role      : Cybersecurity Enthusiast
+Focus     : Red Team | Blue Team | GRC
+Approach  : Learn • Test • Analyze
+Status    : Learning & Building
       </pre>
     </td>
   </tr>
@@ -41,42 +45,25 @@ nesya@cybersec:~$ whoami
 
 ---
 
-<!-- ================= RED / BLUE ================= -->
-<h2 align="center">「 MISSION AREAS 」</h2>
+## `cat /etc/mission-areas`
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
       <h2>🔴 RED TEAM</h2>
       <p><b>OFFENSIVE SECURITY</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/RECONNAISSANCE-24131B?style=for-the-badge&logoColor=white"/>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/PENETRATION_TESTING-24131B?style=for-the-badge"/>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/VULNERABILITY_ASSESSMENT-24131B?style=for-the-badge"/>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/WEB_APPLICATION_SECURITY-24131B?style=for-the-badge"/>
-      </p>
+      <p><img src="https://img.shields.io/badge/RECONNAISSANCE-24131B?style=for-the-badge"/></p>
+      <p><img src="https://img.shields.io/badge/PENETRATION_TESTING-24131B?style=for-the-badge"/></p>
+      <p><img src="https://img.shields.io/badge/VULNERABILITY_ASSESSMENT-24131B?style=for-the-badge"/></p>
+      <p><img src="https://img.shields.io/badge/WEB_APPLICATION_SECURITY-24131B?style=for-the-badge"/></p>
     </td>
     <td width="50%" align="center" valign="top">
       <h2>🔵 BLUE TEAM</h2>
       <p><b>DEFENSIVE SECURITY</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/SECURITY_MONITORING-102331?style=for-the-badge"/>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/THREAT_DETECTION-102331?style=for-the-badge"/>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/LOG_ANALYSIS-102331?style=for-the-badge"/>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/INCIDENT_RESPONSE-102331?style=for-the-badge"/>
-      </p>
+      <p><img src="https://img.shields.io/badge/SECURITY_MONITORING-102331?style=for-the-badge"/></p>
+      <p><img src="https://img.shields.io/badge/THREAT_DETECTION-102331?style=for-the-badge"/></p>
+      <p><img src="https://img.shields.io/badge/LOG_ANALYSIS-102331?style=for-the-badge"/></p>
+      <p><img src="https://img.shields.io/badge/INCIDENT_RESPONSE-102331?style=for-the-badge"/></p>
     </td>
   </tr>
 </table>
@@ -87,8 +74,7 @@ nesya@cybersec:~$ whoami
 
 ---
 
-<!-- ================= TECH STACK ================= -->
-<h2 align="center">「 TECH STACK & TOOLKIT 」</h2>
+## `ls tech-stack/`
 
 <h3 align="center">Languages & Development</h3>
 <p align="center">
@@ -116,35 +102,74 @@ nesya@cybersec:~$ whoami
 
 ---
 
-<!-- ================= COMPACT GITHUB STATS ================= -->
-<h2 align="center">「 GITHUB TELEMETRY 」</h2>
+## `./security-workflow.sh`
+
+<table width="100%">
+  <tr>
+    <td align="center" width="20%">
+      <h3>01</h3>
+      <b>DISCOVER</b>
+      <p><sub>Map the attack surface and gather context.</sub></p>
+    </td>
+    <td align="center" width="20%">
+      <h3>02</h3>
+      <b>ASSESS</b>
+      <p><sub>Identify and validate potential weaknesses.</sub></p>
+    </td>
+    <td align="center" width="20%">
+      <h3>03</h3>
+      <b>ANALYZE</b>
+      <p><sub>Understand impact, likelihood, and evidence.</sub></p>
+    </td>
+    <td align="center" width="20%">
+      <h3>04</h3>
+      <b>REPORT</b>
+      <p><sub>Communicate risks and practical fixes.</sub></p>
+    </td>
+    <td align="center" width="20%">
+      <h3>05</h3>
+      <b>IMPROVE</b>
+      <p><sub>Retest and strengthen security posture.</sub></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><i>Security testing is performed only on systems with proper authorization.</i></p>
+
+---
+
+## `./github-telemetry.sh`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nesyass&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1117&title_color=FF496C&icon_color=13BDF4&text_color=C9D1D9&include_all_commits=true" alt="GitHub account statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesyass&layout=compact&hide_border=true&hide_title=true&bg_color=0D1117&title_color=13BDF4&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
+  <img src="./github-metrics.svg" alt="GitHub profile analytics: activity, community, repositories, and languages" width="100%"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nesyass&hide_border=true&background=0D1117&ring=FF496C&fire=FF496C&currStreakLabel=13BDF4&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" height="150" alt="GitHub contribution streak"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/nesyass?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-20202A?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
 ---
 
-<!-- ================= CONTRIBUTION SNAKE ================= -->
-<h2 align="center">「 CONTRIBUTION MATRIX 」</h2>
+## `./contribution-snake.sh`
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nesyass/nesyass/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nesyass/nesyass/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/nesyass/nesyass/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%"/>
+    <img src="https://raw.githubusercontent.com/nesyass/nesyass/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%"/>
   </picture>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF496C,50:182435,100:13BDF4&height=110&section=footer&text=EXPLORE.%20DETECT.%20DEFEND.&fontColor=FFFFFF&fontSize=18&fontAlignY=65" width="100%" alt="Explore Detect Defend animated footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF496C,50:182435,100:13BDF4&height=110&section=footer&text=EXPLORE.%20DETECT.%20DEFEND.&fontColor=FFFFFF&fontSize=18&fontAlignY=65" width="100%" alt="Animated footer"/>
 </p>
 
 <p align="center">
