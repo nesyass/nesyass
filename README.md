@@ -1,6 +1,6 @@
 <!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Nesya | Red Team and Blue Team"/>
+  <img src="./banner2.png" width="100%" alt="Nesya | Red Team and Blue Team"/>
 </p>
 
 <!-- ================= ANIMATED INTRO ================= -->
