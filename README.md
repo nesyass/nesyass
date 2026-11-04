@@ -138,24 +138,6 @@ Status    : Learning & Building
 
 ---
 
-## `./github-telemetry.sh`
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub profile analytics: activity, community, repositories, and languages" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nesyass&hide_border=true&background=0D1117&ring=FF496C&fire=FF496C&currStreakLabel=13BDF4&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" height="150" alt="GitHub contribution streak"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/nesyass?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-20202A?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
 ## `./contribution-snake.sh`
 
 <p align="center">
