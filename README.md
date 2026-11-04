@@ -151,10 +151,6 @@ Status    : Learning & Building
 ---
 
 <p align="center">
-  <i>too cute to brute force.</i> 🎀
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:E75480,100:FFC0CB&height=110&section=footer&text=EXPLORE.%20DETECT.%20DEFEND.&fontColor=FFFFFF&fontSize=18&fontAlignY=65" width="100%" alt="Pink animated footer"/>
 </p>
 
