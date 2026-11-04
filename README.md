@@ -76,13 +76,9 @@ Status    : Learning & Building
 
 ## `ls technical-arsenal/`
 
-### `programming/`
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,java,cpp,js,ts,php,dart,html,css,bash,mysql,sqlite&theme=dark" alt="Programming and scripting technologies"/>
+  <img src="https://skillicons.dev/icons?i=python,go,java,cpp,js,ts,php,dart,html,css,bash,mysql,sqlite,linux,docker,git,github,postman,nginx&theme=dark" alt="Programming, development and infrastructure tools"/>
 </p>
-
-### `offensive-security/` 🔴
 
 <p align="center">
   <img src="https://img.shields.io/badge/BURP_SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
@@ -90,24 +86,8 @@ Status    : Learning & Building
   <img src="https://img.shields.io/badge/NMAP-246B8E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NESSUS-00AEEF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/KALI_LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-</p>
-
-### `defensive-security/` 🔵
-
-<p align="center">
   <img src="https://img.shields.io/badge/WAZUH-1678C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LOG_ANALYSIS-263B50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/THREAT_DETECTION-263B50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/INCIDENT_RESPONSE-263B50?style=for-the-badge"/>
 </p>
-
-### `infrastructure/`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,postman,nginx&theme=dark" alt="Infrastructure and development tools"/>
-</p>
-
-### `frameworks-standards/`
 
 <p align="center">
   <img src="https://img.shields.io/badge/NIST_CSF_2.0-17365D?style=for-the-badge"/>
