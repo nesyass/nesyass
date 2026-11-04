@@ -1,4 +1,3 @@
- 
 <!-- ================= BANNER ================= -->
 <p align="center">
   <img src="./banner.png" width="100%" alt="Nesya | Red Team and Blue Team"/>
@@ -7,6 +6,10 @@
 <!-- ================= ANIMATED INTRO ================= -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=00CFFF&center=true&vCenter=true&width=700&height=55&lines=CYBERSECURITY+ENTHUSIAST;RED+TEAM+%2F+BLUE+TEAM;EXPLORE.+DETECT.+DEFEND." alt="Animated typing introduction"/>
+</p>
+
+<p align="center">
+  <i>she believed she could, so she ran sudo.</i> 💻
 </p>
 
 <p align="center">
@@ -146,6 +149,10 @@ Status    : Learning & Building
 </p>
 
 ---
+
+<p align="center">
+  <i>too cute to brute force.</i> 🎀
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF496C,50:182435,100:13BDF4&height=110&section=footer&text=EXPLORE.%20DETECT.%20DEFEND.&fontColor=FFFFFF&fontSize=18&fontAlignY=65" width="100%" alt="Animated footer"/>
